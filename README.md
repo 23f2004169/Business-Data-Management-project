@@ -1,5 +1,7 @@
 # Sustaining-a-Small-Kirana-Store-Tackling-Inventory-and-Profit-Challenges 
 
+Detailed presentation video: https://youtu.be/8I_D8yyNc64?si=rkDweKvmiAFA-cNg
+
 -This project analyzes sales data from Kochuparambil Stores, a 20-year-old Kirana shop in Kottayam, Kerala, to identify strategies for profitability and sustainability.  
 
 
